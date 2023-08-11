@@ -36,9 +36,9 @@ Add ssh keys to your GitHub account:
 ## Fork a repository
 Forking refers to making a copy of a project you want to contribute to. Now lets fork a project provided to complete this activity. 
 
-Follow these steps to fork a project:
+Follow these steps to fork a project:  
 
-1. Go to the project url using this link https://github.com/UniCourt/Analytics-Workshop1 or any other link
+1. Go to the project url using this link https://github.com/rabeeh-ta/glug-github101 or any other link
 2. Click on the fork button in the project page
 3. Select a namespace to fork our project. Select your namespace here.
 
@@ -57,7 +57,7 @@ Authenticate with GitLab by following the instructions in the SSH documentation.
 
     For example,
 
-        git clone "git@github.com:<your-username>/Analytics-Workshop1.git"
+        git clone "git@github.com:<your-username>/glug-github101"
 
 ## View your remote repositories
 To view the remote repositories that you have added, run following command:
@@ -77,7 +77,7 @@ Run the following command to add upstream repository.
 
 For example,
 
-    git remote add upstream "git@github.com:UniCourt/Analytics-Workshop1.git"
+    git remote add upstream "git@github.com:<username>/glug-github101"
 
 
 ## Create a branch
